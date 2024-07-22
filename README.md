@@ -1,5 +1,7 @@
 # wallpaper
 
+Half of those wallpapers were added from [ml4w](https;//github.com/mylinuxforwork)
+
 ### Clone this repository
 
 ```
