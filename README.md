@@ -4,7 +4,7 @@
 
 ```
 $ cd ~/Downloads
-$ git clone https://github.com/g5ostXa/wallpaper.git
+$ git clone --depth 1 https://github.com/g5ostXa/wallpaper.git
 ```
 
 ### Update
