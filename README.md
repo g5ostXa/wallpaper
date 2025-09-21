@@ -1,7 +1,5 @@
 # wallpaper
 
-Half of those wallpapers were added from [mylinuxforwork](https://github.com/mylinuxforwork)
-
 ### Clone this repository
 
 ```
